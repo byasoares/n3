@@ -1,0 +1,28 @@
+
+[
+    {
+        "user_nome": "Fulano",
+        "user_sobrenome": "Ciclano",
+        "user_id": 1,
+        "user_matricula": "1616015",
+
+    }
+]
+
+# metodo get
+##
+
+{
+	"nome":"Fulano",
+	"sobrenome":"Ciclano,
+	"matricula":"1616015"
+}
+
+#metodo post
+##
+
+
+
+
+
+
