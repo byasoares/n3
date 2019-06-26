@@ -1,3 +1,4 @@
+GET  http://localhost:5000/aluno
 
 [
     {
@@ -12,6 +13,8 @@
 # metodo get
 ##
 
+
+http://localhost:5000/adicionar_aluno
 {
 	"nome":"Fulano",
 	"sobrenome":"Ciclano,
@@ -20,6 +23,13 @@
 
 #metodo post
 ##
+
+
+GET  http://localhost:5000/delete/2
+
+#metodo delete
+##
+
 
 
 
